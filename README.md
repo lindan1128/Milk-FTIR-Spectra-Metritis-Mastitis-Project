@@ -1,4 +1,4 @@
-# Milk-FTIR-Spectra-Health-Forecast-Project
+# Milk-FTIR-Spectra-Metritis-Mastitis-Prediction-Project
 
 ![Image text](https://github.com/lindan1128/Milk-FTIR-Spectra-Metritis-Mastitis-Project/blob/main/workflow.png)
 
