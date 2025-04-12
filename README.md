@@ -10,8 +10,8 @@ This study evaluated the use of milk Fourier-transform infrared (FTIR) spectrosc
 	│   ├── Figure 1B-1D.r            # codes for generating results for Figure 1B-1D
 	│   ├── Figure 2A-2B.r            # codes for generating results for Figure 2A-2B
 	│   ├── Figure 2C.r               # codes for generating results for Figure 2C
-	│ 	├── Figure 2D.r               # codes for generating results for Figure 2D
-  │ 	├── Figure 3.r                # codes for generating results for Figure 3
+	│   ├── Figure 2D.r               # codes for generating results for Figure 2D
+  	│   ├── Figure 3.r                # codes for generating results for Figure 3
 	├── Supplemental_Table/           # Folder for supplemental tables
 	│   ├── Supplemental Table 1      
 	│   ├── Supplemental Table 2
