@@ -3,9 +3,8 @@
 This study evaluated the use of milk Fourier-transform infrared (FTIR) spectroscopy to predict and classify early-lactation diseases—metritis and clinical mastitis—in Holstein cows within the first 7 days in milk (DIM). To ensure robust and unbiased performance evaluation, we employed a repeated down-sampled double cross-validation framework that balanced class distributions and integrated hyperparameter tuning and model assessment through nested 5-fold cross-validation.
 
 
-<div style="text-align: center;">
-    <img src="https://github.com/lindan1128/Milk-FTIR-Spectra-Metritis-Mastitis-Project/blob/main/workflow.png" width="400" height="400" alt="Workflow diagram">
-</div>
+<img src="https://github.com/lindan1128/Milk-FTIR-Spectra-Metritis-Mastitis-Project/blob/main/workflow.png" width="800" height="600" alt="Workflow diagram">
+
 
 ### Project structure
 	Main/
