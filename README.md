@@ -20,7 +20,7 @@ This study evaluated the use of milk Fourier-transform infrared (FTIR) spectrosc
 	│   ├── Supplemental Table 3
 	│   ├── Supplemental Table 4
 	│   └── Supplemental Table 5
-	├── Supplemental_Figure/          # Folder for supplemental fugures
+	├── Supplemental_Figure/          # Folder for supplemental figures
 	│   ├── Supplemental Figure 1      
 	│   └── Supplemental Figure 2
 	│── pls-da.py                     # Main function for PLS-DA
