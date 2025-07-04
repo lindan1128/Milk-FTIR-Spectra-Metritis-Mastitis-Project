@@ -2,6 +2,7 @@
 
 This study evaluated the use of milk Fourier-transform infrared (FTIR) spectroscopy to predict and classify early-lactation diseases—metritis and clinical mastitis—in Holstein cows within the first 7 days in milk (DIM). To ensure robust and unbiased performance evaluation, we employed a repeated down-sampled LOOCV framework coupled with three PLS-DA-based modeling strategies: Pooled PLS-DA, Multiblock PLS-DA and single-day (DIM) PLS-DA.
 
+The project website can be found here: https://milk-ftir.github.io/
 The shiny app for Downsampling effect on evaluation metrics can be found here: https://dan-lin.shinyapps.io/milk-ftir-downsample/
 
 
